@@ -10,7 +10,7 @@ export default {
   // 网站作者
   Author: '.𝙃𝙖𝙣',
   // 作者头像
-  Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640',
+  Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2736543534&s=640',
   // 网站座右铭
   Motto: '运气是计划之外的东西.',
   // Cover 网站缩略图

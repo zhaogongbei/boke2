@@ -112,7 +112,7 @@ export default {
 		{
 			name: "赵佳彬博客",
 			link: "https://www.vvhan.com",
-			avatar: "https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640",
+			avatar: "https://q1.qlogo.cn/g?b=qq&nk=2736543534&s=640",
 			descr: "运气是计划之外的东西."
 		},
 		{
@@ -138,7 +138,7 @@ export default {
 		{
 			date: "2025-02-12 19:36:16",
 			tags: ["树", "夕阳"],
-			content: '好美🌲<p class="vh-img-flex"><img src="https://i0.wp.com/shp.qpic.cn/collector/1655466387/937ec070-8448-4c7b-9c8b-abd41ce892cb/0"></p>'
+			content: '好美🌲<p class="vh-img-flex"><img src="https://i0.wp.com/shp.qpic.cn/collector/2736543534/937ec070-8448-4c7b-9c8b-abd41ce892cb/0"></p>'
 		},
 		{
 			date: "2024-10-05 16:16:06",
@@ -257,7 +257,7 @@ export default {
   Description: '赵佳彬博客 专注于前开发与相关技术的实战分享，涵盖Vue框架、Node.js、Serverless等，并涉及Node、Python、Linux、Docker等领域。同时，博客也分享作者的生活、音乐和旅行的热爱。',
   Author: '.𝙃𝙖𝙣',
   Motto: '运气是计划之外的东西.',
-  Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640',
+  Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=2736543534&s=640',
   // Cover 网站缩略图
   Cover: '/assets/images/banner/072c12ec85d2d3b5.webp',
   // 网站创建时间
@@ -364,7 +364,7 @@ export default {
 
 ## ✨ 反馈和建议
 
-如果您有任何建议/反馈，您可以通过我的 [电子邮件](mailto:1655466387@qq.com) 联系我。或者，如果您发现错误或想要请求新功能，请随时打开问题。
+如果您有任何建议/反馈，您可以通过我的 [电子邮件](mailto:2736543534@qq.com) 联系我。或者，如果您发现错误或想要请求新功能，请随时打开问题。
 
 ## Stargazers over time
 

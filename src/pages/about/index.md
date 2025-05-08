@@ -66,7 +66,7 @@ type: "about"
 
 |     主&emsp;页      |       <https://www.4ce.cn>        |
 | :-----------------: | :-------------------------------: |
-|   **博&emsp;客**    |    **<https://www.vvhan.com>**    |
+|   **博&emsp;客**    |    **<http://zhaojiabin.shop/>**    |
 |  **Web&emsp;API**   |    **<https://api.vvhan.com>**    |
 |  **Han Analytics**  | **<https://analytics.vvhan.com>** |
 | **Cloudflare 优选** |    **<https://cf.vvhan.com>**     |

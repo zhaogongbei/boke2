@@ -14,7 +14,7 @@ type: "links"
 
 ```yaml
 name: 赵佳彬博客
-link: https://www.vvhan.com/
+link: http://zhaojiabin.shop/
 avatar: https://q1.qlogo.cn/g?b=qq&nk=2736543534&s=640
 desc: 运气是计划之外的东西.
 ```
